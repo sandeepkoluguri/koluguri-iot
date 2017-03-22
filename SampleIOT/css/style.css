@@ -111,7 +111,7 @@ Navigation bar
 Banner
 ************************************/
 .banner{
-	background: url('../img/bg-banner.jpg') no-repeat center top;
+	background: url('../img/Internet-of-things-1170x500.jpg') no-repeat center top;
     background-size: cover;
 	min-height: 580px;
     position: relative;
@@ -239,12 +239,15 @@ Banner
 /*********************************
 Services
 ********************************/
-.services-style-one
-    background-color: rgb(247, 247, 247);
+.services-style-one{
+    
 }
 /***********************************
 Features
 ************************************/
+#feature{
+    background-color: rgb(247, 247, 247);
+}
 h2{
 	font-size: 24px;
 	padding-bottom: 15px;
@@ -282,8 +285,8 @@ h2{
 /***********************************
  Organisations
 ************************************/
-#organisations{
-    background-color: rgb(247, 247, 247);
+#store{
+/*    background-color: rgb(247, 247, 247);*/
 }
 .orga-stru
 {
@@ -395,6 +398,9 @@ Work Shop
 /***********************************
 Mentor Team
 ************************************/
+#faculity-member{
+    background-color: rgb(247, 247, 247);
+}
 .pm-staff-profile-image{
   width: 150px;
   height: 150px;
