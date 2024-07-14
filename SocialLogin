@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T19:50:05.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QoM_VxrSV-JnVKHImQ0R" version="20.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T19:50:55.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fnvrL5aJBOit8aZxLwCb" version="20.8.9" type="github">
   <diagram name="Page-1" id="th19aoOJL_p0Dk26EVyQ">
     <mxGraphModel dx="1590" dy="2070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="M27RRU6wr_1NwE9OUABQ-6" value="" style="swimlane;shadow=0;strokeColor=#4277BB;fillColor=#ffffff;fontColor=none;align=right;startSize=0;collapsible=0;noLabel=1;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="160" y="-1000" width="1070" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M27RRU6wr_1NwE9OUABQ-7" value="Client Application&lt;br style=&quot;font-size: 14px;&quot;&gt;DELTA IOT" style="text;html=1;align=center;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" vertex="1" parent="M27RRU6wr_1NwE9OUABQ-6">
+        <mxCell id="M27RRU6wr_1NwE9OUABQ-7" value="Client Application&lt;br style=&quot;font-size: 14px;&quot;&gt;(DELTA IOT)" style="text;html=1;align=center;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" vertex="1" parent="M27RRU6wr_1NwE9OUABQ-6">
           <mxGeometry x="15" y="10" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-8" value="Authentication Server" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" vertex="1" parent="M27RRU6wr_1NwE9OUABQ-6">
           <mxGeometry x="216" y="10" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M27RRU6wr_1NwE9OUABQ-9" value="Identity Provider&lt;br style=&quot;font-size: 14px;&quot;&gt;Facebook, Google, Twitter" style="text;html=1;align=center;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" vertex="1" parent="M27RRU6wr_1NwE9OUABQ-6">
+        <mxCell id="M27RRU6wr_1NwE9OUABQ-9" value="Identity Provider&lt;br style=&quot;font-size: 14px;&quot;&gt;(Facebook, Google, Twitter)" style="text;html=1;align=center;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" vertex="1" parent="M27RRU6wr_1NwE9OUABQ-6">
           <mxGeometry x="850" y="11" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.75;exitY=0;entryX=0.75;entryY=0;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=4;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#EDC11C;strokeWidth=2;fontSize=15;fontColor=#4277BB;" edge="1" parent="M27RRU6wr_1NwE9OUABQ-6">
@@ -22,7 +22,7 @@
             <mxPoint x="88.41640786499875" y="193.1671842700025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M27RRU6wr_1NwE9OUABQ-11" value="Resource Server&lt;br style=&quot;font-size: 14px;&quot;&gt;DELTA REST APIs" style="text;html=1;align=center;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" vertex="1" parent="M27RRU6wr_1NwE9OUABQ-6">
+        <mxCell id="M27RRU6wr_1NwE9OUABQ-11" value="Resource Server&lt;br style=&quot;font-size: 14px;&quot;&gt;(DELTA REST APIs)" style="text;html=1;align=center;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" vertex="1" parent="M27RRU6wr_1NwE9OUABQ-6">
           <mxGeometry x="528" y="10" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-12" value="" style="line;strokeWidth=3;direction=south;html=1;shadow=0;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontSize=14;fontColor=#4277BB;align=right;strokeColor=#4277BB;" vertex="1" parent="M27RRU6wr_1NwE9OUABQ-6">
