@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T19:38:04.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q8GRoDx998z0zVOaKmEC" version="20.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T19:40:38.040Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jRSSpLY6tKuab7wbuoAp" version="20.8.9" type="github">
   <diagram name="Page-1" id="th19aoOJL_p0Dk26EVyQ">
-    <mxGraphModel dx="954" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="2070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="M27RRU6wr_1NwE9OUABQ-6" value="" style="swimlane;shadow=0;strokeColor=#4277BB;fillColor=#ffffff;fontColor=none;align=right;startSize=0;collapsible=0;noLabel=1;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-320" width="1070" height="50" as="geometry" />
+          <mxGeometry x="160" y="-1000" width="1070" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-7" value="Client Application&lt;br style=&quot;font-size: 14px;&quot;&gt;DELTA IOT" style="text;html=1;align=center;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=5;" vertex="1" parent="M27RRU6wr_1NwE9OUABQ-6">
           <mxGeometry x="15" y="10" width="150" height="20" as="geometry" />
@@ -35,12 +35,12 @@
           <mxGeometry x="740" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-15" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-180" width="50" height="50" as="geometry" />
+          <mxGeometry x="30" y="-860" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.183;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.184;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="M27RRU6wr_1NwE9OUABQ-19" target="M27RRU6wr_1NwE9OUABQ-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="-59.5" as="sourcePoint" />
-            <mxPoint x="490" y="-60" as="targetPoint" />
+            <mxPoint x="260" y="-739.5" as="sourcePoint" />
+            <mxPoint x="470" y="-740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-17" value="2. sends an &lt;br&gt;authorization request&lt;br style=&quot;font-size: 15px;&quot;&gt;GET /auth" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="M27RRU6wr_1NwE9OUABQ-16">
@@ -50,17 +50,17 @@
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.354;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" target="M27RRU6wr_1NwE9OUABQ-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="65" as="sourcePoint" />
-            <mxPoint x="1100" y="65" as="targetPoint" />
+            <mxPoint x="260" y="-615" as="sourcePoint" />
+            <mxPoint x="1080" y="-615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-19" value="" style="line;strokeWidth=3;direction=south;html=1;shadow=0;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontSize=15;fontColor=#4277BB;align=right;strokeColor=#4277BB;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-270" width="10" height="950" as="geometry" />
+          <mxGeometry x="240" y="-950" width="10" height="950" as="geometry" />
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.212;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" target="M27RRU6wr_1NwE9OUABQ-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="-70" as="sourcePoint" />
-            <mxPoint x="770" y="-69.5" as="targetPoint" />
+            <mxPoint x="470" y="-750" as="sourcePoint" />
+            <mxPoint x="750" y="-749.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-21" value="3. Redirect to IdP&lt;br&gt;GET /auth/redirect" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="M27RRU6wr_1NwE9OUABQ-20">
@@ -69,15 +69,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-22" value="" style="line;strokeWidth=3;direction=south;html=1;shadow=0;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontSize=15;fontColor=#4277BB;align=right;strokeColor=#4277BB;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-270" width="10" height="949" as="geometry" />
+          <mxGeometry x="460" y="-950" width="10" height="949" as="geometry" />
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-23" value="" style="line;strokeWidth=3;direction=south;html=1;shadow=0;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontSize=15;fontColor=#4277BB;align=right;strokeColor=#4277BB;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-270" width="10" height="950" as="geometry" />
+          <mxGeometry x="750" y="-950" width="10" height="950" as="geometry" />
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.354;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;" edge="1" parent="1" source="M27RRU6wr_1NwE9OUABQ-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="65" as="targetPoint" />
-            <mxPoint x="1070" y="65" as="sourcePoint" />
+            <mxPoint x="250" y="-615" as="targetPoint" />
+            <mxPoint x="1050" y="-615" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-25" value="5. User enters credentials and &lt;br&gt;authenticates with the IDP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="M27RRU6wr_1NwE9OUABQ-24">
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-26" value="" style="line;strokeWidth=3;direction=south;html=1;shadow=0;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontSize=15;fontColor=#4277BB;align=right;strokeColor=#4277BB;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="-270" width="10" height="950" as="geometry" />
+          <mxGeometry x="1070" y="-950" width="10" height="950" as="geometry" />
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.122;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="M27RRU6wr_1NwE9OUABQ-15" target="M27RRU6wr_1NwE9OUABQ-19">
           <mxGeometry relative="1" as="geometry" />
@@ -98,9 +98,9 @@
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="M27RRU6wr_1NwE9OUABQ-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" as="targetPoint" />
+            <mxPoint x="245" y="-680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="268" />
+              <mxPoint x="248" y="-680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -111,11 +111,11 @@
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1094" y="140.35" as="sourcePoint" />
-            <mxPoint x="490" y="140.00300000000001" as="targetPoint" />
+            <mxPoint x="1074" y="-539.65" as="sourcePoint" />
+            <mxPoint x="470" y="-539.997" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1014" y="140.35" />
-              <mxPoint x="1014" y="140.35" />
+              <mxPoint x="994" y="-539.65" />
+              <mxPoint x="994" y="-539.65" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -135,8 +135,8 @@
         <mxCell id="M27RRU6wr_1NwE9OUABQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.576;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="M27RRU6wr_1NwE9OUABQ-19" target="M27RRU6wr_1NwE9OUABQ-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="277" />
-              <mxPoint x="320" y="277" />
+              <mxPoint x="300" y="-403" />
+              <mxPoint x="300" y="-403" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -148,8 +148,8 @@
         <mxCell id="M27RRU6wr_1NwE9OUABQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.632;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="M27RRU6wr_1NwE9OUABQ-22" target="M27RRU6wr_1NwE9OUABQ-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="330" />
-              <mxPoint x="420" y="330" />
+              <mxPoint x="400" y="-350" />
+              <mxPoint x="400" y="-350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -161,8 +161,8 @@
         <mxCell id="M27RRU6wr_1NwE9OUABQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.729;entryY=0.227;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="M27RRU6wr_1NwE9OUABQ-19" target="M27RRU6wr_1NwE9OUABQ-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="423" />
-              <mxPoint x="380" y="423" />
+              <mxPoint x="360" y="-257" />
+              <mxPoint x="360" y="-257" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -173,11 +173,11 @@
         </mxCell>
         <mxCell id="M27RRU6wr_1NwE9OUABQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.879;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="480.0009090909085" as="sourcePoint" />
-            <mxPoint x="483.17999999999984" y="480.08100000000024" as="targetPoint" />
+            <mxPoint x="750" y="-199.99909090909148" as="sourcePoint" />
+            <mxPoint x="463.17999999999984" y="-199.91899999999976" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="479.90999999999997" />
-              <mxPoint x="690" y="479.90999999999997" />
+              <mxPoint x="670" y="-200.09000000000003" />
+              <mxPoint x="670" y="-200.09000000000003" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -189,8 +189,8 @@
         <mxCell id="M27RRU6wr_1NwE9OUABQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.914;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="M27RRU6wr_1NwE9OUABQ-23" target="M27RRU6wr_1NwE9OUABQ-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="598" />
-              <mxPoint x="620" y="598" />
+              <mxPoint x="600" y="-82" />
+              <mxPoint x="600" y="-82" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -198,6 +198,9 @@
           <mxGeometry x="-0.1193" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M27RRU6wr_1NwE9OUABQ-45" value="&lt;h3&gt;Breakdown of the Flow with Tokens and Endpoints:&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;User Initiates Login:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;User clicks &quot;Login&quot; in the client application.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Authorization Request:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Client app sends an authorization request to the authorization server.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Endpoint:&lt;/strong&gt; &lt;code&gt;GET /auth&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Redirect to Authorization Server:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The authorization server redirects the user to the identity provider (IDP) for authentication.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Redirect to Identity Provider:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;User is redirected to the IDP (e.g., Google, Facebook).&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Endpoint:&lt;/strong&gt; &lt;code&gt;GET /auth/redirect&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;User Authenticates:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;User authenticates with the IDP.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Redirect Back to Authorization Server:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;After authentication, the IDP redirects the user back to the authorization server.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Authorization Code Received:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Authorization server sends an authorization code back to the client application.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Token Request:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Client app exchanges the authorization code for tokens by sending a request to the authorization server.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Endpoint:&lt;/strong&gt; &lt;code&gt;POST /token&lt;/code&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Tokens Exchanged:&lt;/strong&gt; Auth Code.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Access and ID Tokens Issued:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Authorization server responds with access and ID tokens.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Tokens Issued:&lt;/strong&gt; Access Token, ID Token.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;API Request:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Client app uses the access token to request protected resources from the resource server.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Endpoint:&lt;/strong&gt; &lt;code&gt;GET /api&lt;/code&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Tokens Used:&lt;/strong&gt; Access Token.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Token Validation:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Resource server validates the access token with the authorization server.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Endpoint:&lt;/strong&gt; &lt;code&gt;POST /introspect&lt;/code&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Tokens Used:&lt;/strong&gt; Access Token.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;API Response:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Resource server sends back the requested data to the client application.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;Summary of Exchanges with Tokens and Endpoints&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;(1-3)&lt;/strong&gt;: User initiates login and gets redirected to the authorization server.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;(4-5)&lt;/strong&gt;: User authenticates with the identity provider.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;(6-7)&lt;/strong&gt;: User is redirected back to the authorization server, receiving an &lt;strong&gt;authorization code&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;(8-9)&lt;/strong&gt;: Client exchanges the &lt;strong&gt;authorization code&lt;/strong&gt; for &lt;strong&gt;access and ID tokens&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;(10-12)&lt;/strong&gt;: Client accesses the resource server using the &lt;strong&gt;access token&lt;/strong&gt;.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-900" width="450" height="1340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
